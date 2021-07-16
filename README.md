@@ -4,6 +4,7 @@
 
 2.Libraries Used: numpy,matplotilb,pandas,seaborn,sclicit learn.
 
+3.Dataset Used: globalterrorism dataset.@THE SPARKS FOUNDATION(GRIP)
 
 Submitted By:- Pratik Punjaram Thombre
 
